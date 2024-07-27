@@ -8,7 +8,6 @@ export default {
       },
       padding: {
         "default-x": "12rem",
-        // "default-y": "1rem",
       },
     },
   },

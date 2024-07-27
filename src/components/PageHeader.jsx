@@ -6,7 +6,6 @@ import { ImCogs } from "react-icons/im";
 import { SlGlobe } from "react-icons/sl";
 
 const PageHeader = () => {
-  //mobile:block desktop:justify-between align-items-center mobile:justify-around px-2 mobile:p-1 grid grid-cols-2 max-w-[1536px] mx-auto w-full
   return (
     <>
       <div className="grid grid-cols-2 p-2 max-w-[1536px] mx-auto w-full">
